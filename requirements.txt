@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+requests
+torch
+transformers
+librosa
+numpy
+scipy
+pydub
+websockets
+faster-whisper
+sentence-transformers
+accelerate
